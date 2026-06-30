@@ -29,9 +29,9 @@ Early detection and understanding of skin conditions can significantly improve t
 
 Below are screenshots demonstrating the app's functionality:
 
-| Menu | Home Screen | AI diagnosis | Output and XAI | DermaWiki |
-| --- | --- | --- | --- | --- |
-| <img width="1198" height="2531" alt="1" src="https://github.com/user-attachments/assets/ff98fd34-4fd8-44b1-9372-9489cf2d2c28" /> | <img width="1198" height="2531" alt="2" src="https://github.com/user-attachments/assets/dba4d38c-0dfe-4c24-88fc-0bfa66bfc1ea" /> | <img width="1198" height="2531" alt="3" src="https://github.com/user-attachments/assets/1a95c9da-4065-4195-8f24-c5c85aee4e60" /> | <img width="1198" height="2531" alt="4" src="https://github.com/user-attachments/assets/34ab7bbe-cc86-4cc7-8278-141892395c16" /> | <img width="1198" height="2531" alt="6" src="https://github.com/user-attachments/assets/8b7edfdc-2e0a-4e15-abce-2c3b0e5f2b9b" /> |
+| **Menu** | **Home Screen** | **AI diagnosis** | **Output and XAI** | **DermaWiki** | **Screen 6** | **Screen 7** |
+| --- | --- | --- | --- | --- | --- | --- |
+| ![Menu](./Images/app-demo-images/1.png) | ![Home](./Images/app-demo-images/2.png) | ![diagnosis](./Images/app-demo-images/3.png) | ![output](./Images/app-demo-images/4.png) | ![wiki](./Images/app-demo-images/5.png) | ![screen6](./Images/app-demo-images/6.png) | ![screen7](./Images/app-demo-images/7.png) |
 
 ## 📥 Download
 
