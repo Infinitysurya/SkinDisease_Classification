@@ -31,7 +31,8 @@ Below are screenshots demonstrating the app’s functionality:
 
 | **Menu**                                | **Home Screen**                         | **AI diagnosis**                             | **Output and XAI**                        | **DermaWiki**                           | **Find Clinic**                           | **Account and Past Scans**                 |
 | --------------------------------------- | --------------------------------------- | -------------------------------------------- | ----------------------------------------- | --------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| ![Menu](./Images/app-demo-images/1.png) | ![Home](./Images/app-demo-images/2.png) | ![diagnosis](./Images/app-demo-images/3.png) | ![output](./Images/app-demo-images/4.png) | ![wiki](./Images/app-demo-images/5.png) | ![clinic](./Images/app-demo-images/6.png) | ![account](./Images/app-demo-images/7.png) |
+| <img width="1198" height="2531" alt="1" src="https://github.com/user-attachments/assets/ff98fd34-4fd8-44b1-9372-9489cf2d2c28" /> | <img width="1198" height="2531" alt="2" src="https://github.com/user-attachments/assets/c34efb81-42bd-4029-ab44-383c1a79eba7" /> | <img width="1198" height="2531" alt="4" src="https://github.com/user-attachments/assets/6e4287c7-9e03-4594-b4e9-1325f0e121b4" /> | <img width="1198" height="2531" alt="5" src="https://github.com/user-attachments/assets/d8d8adca-2992-4e48-8c34-d2ca6a915eef" /> |
+<img width="1198" height="2531" alt="4" src="https://github.com/user-attachments/assets/34ab7bbe-cc86-4cc7-8278-141892395c16" /> | <img width="1198" height="2531" alt="6" src="https://github.com/user-attachments/assets/83608a53-e6d9-4028-a30d-e3a2fb8773b9" /> | <img width="1198" height="2531" alt="7" src="https://github.com/user-attachments/assets/11624045-1242-41fe-a7d5-55e0e6ed6c67" /> |
 
 ##  Download
 
