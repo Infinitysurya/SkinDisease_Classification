@@ -33,6 +33,3 @@ Below are screenshots demonstrating the app's functionality:
 | --- | --- | --- | --- | --- | --- | --- |
 | ![Menu](./Images/app-demo-images/1.png) | ![Home](./Images/app-demo-images/2.png) | ![diagnosis](./Images/app-demo-images/3.png) | ![output](./Images/app-demo-images/4.png) | ![wiki](./Images/app-demo-images/5.png) | ![screen6](./Images/app-demo-images/6.png) | ![screen7](./Images/app-demo-images/7.png) |
 
-##  Download
-
-Download the latest APK here: [Skin Health Companion APK](./App/skin-health-app/android/app/build/outputs/apk/debug/app-debug.apk)
