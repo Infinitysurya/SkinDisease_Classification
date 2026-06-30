@@ -1,19 +1,19 @@
 # Skin Health Companion
 
-## 🏆 Project Context & Team Members
+##  Project Context & Team Members
 
 This project was developed as part of the **Applied Machine Learning (AML) coursework** at **Chennai Mathematical Institute (CMI)** during this academic year.
 
-### 👨‍💻 Team Members:
+###  Team Members:
 
 - **Shankar Narayanan** (MCS202409)
 - **Eada Surya Deva** (MDS202323)
 
-## 📌 Motivation
+##  Motivation
 
 Early detection and understanding of skin conditions can significantly improve treatment outcomes. This project aims to bridge the gap between dermatological expertise and user-friendly AI-powered diagnosis.
 
-## 🚀 Features
+##  Features
 
 - AI-driven skin condition classification.
 - Explainability features using Grad-CAM.
@@ -25,7 +25,7 @@ Early detection and understanding of skin conditions can significantly improve t
 - [**Comparative Study of Multiple CNN Models for Classification of 23 Skin Diseases** – Amina Aboulmira et al.](https://www.researchgate.net/publication/363156222_Comparative_Study_of_Multiple_CNN_Models_for_Classification_of_23_Skin_Diseases)
 - [**Enhancing Skin Disease Classification Leveraging Transformer-based Deep Learning Architectures and Explainable AI** – Jayanth Mohan et al.](https://arxiv.org/abs/2407.14757)
 
-## 📸 App Demo
+##  App Demo
 
 Below are screenshots demonstrating the app's functionality:
 
@@ -33,6 +33,6 @@ Below are screenshots demonstrating the app's functionality:
 | --- | --- | --- | --- | --- | --- | --- |
 | ![Menu](./Images/app-demo-images/1.png) | ![Home](./Images/app-demo-images/2.png) | ![diagnosis](./Images/app-demo-images/3.png) | ![output](./Images/app-demo-images/4.png) | ![wiki](./Images/app-demo-images/5.png) | ![screen6](./Images/app-demo-images/6.png) | ![screen7](./Images/app-demo-images/7.png) |
 
-## 📥 Download
+##  Download
 
 Download the latest APK here: [Skin Health Companion APK](./App/skin-health-app/android/app/build/outputs/apk/debug/app-debug.apk)
